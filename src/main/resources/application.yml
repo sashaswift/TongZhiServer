@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: TongZhiServer
+
+  datasource:
+    url: jdbc:mysql://82.156.214.214/TimeBank_tongzhi
+    username: root
+    password: aptx&4869
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8081
